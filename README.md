@@ -14,6 +14,7 @@ Select from your favorite open source licenses to be embedded in the header:
 - [BSD 3-Clause](http://opensource.org/licenses/BSD-3-Clause)
 - [GNU General Public License, version 2 (GPL-2.0)](http://opensource.org/licenses/GPL-2.0)
 - [GNU General Public License, version 3 (GPL-3.0)](http://opensource.org/licenses/GPL-3.0)
+- [The GNU Lesser General Public License, version 2.1 (LGPL-2.1)](http://opensource.org/licenses/LGPL-2.1)
 - [Zlib](http://opensource.org/licenses/Zlib)
 
 > Is your license of choice missing? Feel free to send a pull request!
